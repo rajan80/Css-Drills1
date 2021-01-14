@@ -1,0 +1,75 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:lightgray
+}
+h2,p, .readme-wrapper{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+:hover{
+    pointer-events: painted;
+    font-weight: bold;
+    color: greenyellow;
+}
+
+span {
+    font-weight: bold;
+    color: red;
+}
+.boxes{
+    margin: auto;
+    padding: 0em;
+    border-style: solid;
+    border-radius: 0em;
+    width: 30 em;
+    display: block
+}
+#box1{
+    background-color:indigo
+    
+}
+#box2{
+    position: relative;
+    background-color:lightcoral
+}
+#box3{
+    background-color:lightcoral
+}
+#box4{
+    background-color:lightseagreen
+}
+.images{
+    height:50px;
+    width:50px;
+    border-radius: 50px;
+    background-color:yellow;
+    
+    
+}
+h1{
+    font:orange;
+}
+.original{
+    color:darkgreen
+
+}
+.additional{
+    color:crimson
+}
+#rank{
+    color:darkslategray;
+    color:floralwhite;
+}
+.friends{
+    color:yellowgreen
+}
+.star{
+    color:turquoise
+}
+#wars{
+    color:violet;
+}
